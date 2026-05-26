@@ -47,14 +47,19 @@ import numpy as np
 df = pd.read_csv("bmi.csv")
 df
 ```
+
 <img width="902" height="541" alt="image" src="https://github.com/user-attachments/assets/806259dc-c516-489a-87e5-0bdf4fb00249" />
+
 ```
 df.head()
 ```
+
 <img width="912" height="284" alt="image" src="https://github.com/user-attachments/assets/690aa3b1-d16e-454e-b30e-85b3873f6fad" />
+
 ```
 df.dropna()
 ```
+
 <img width="914" height="523" alt="image" src="https://github.com/user-attachments/assets/6d7ff2f3-547a-4437-9fc1-d65de8e23970" />
 
 ```
